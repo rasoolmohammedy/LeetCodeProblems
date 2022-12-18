@@ -1,0 +1,8 @@
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\bin\Debug\LeetCodeProj1.exe.config
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\bin\Debug\LeetCodeProj1.exe
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\bin\Debug\LeetCodeProj1.pdb
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\obj\Debug\LeetCodeProj1.csproj.AssemblyReference.cache
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\obj\Debug\LeetCodeProj1.csproj.SuggestedBindingRedirects.cache
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\obj\Debug\LeetCodeProj1.csproj.CoreCompileInputs.cache
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\obj\Debug\LeetCodeProj1.exe
+C:\SourceCode\GitHub\MyRepos\LeetCode\CSharp\Solution1\LeetCodeProj1\LeetCodeProj1\obj\Debug\LeetCodeProj1.pdb
